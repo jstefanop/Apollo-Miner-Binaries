@@ -60,6 +60,6 @@
 # 4. Save the file and double click it to start the miner
 
 
-./apollo-miner -host us-east.stratum.slushpool.com -port 3333 -user jstefanop.x -pswd x -comport /dev/ttyAMC0 -brd_ocp 48  -osc 30 -ao_mode 1
+./apollo-miner -host us-east.stratum.slushpool.com -port 3333 -user jstefanop.x -pswd x -comport /dev/ttyACM0 -brd_ocp 48  -osc 30 -ao_mode 1
 
 
