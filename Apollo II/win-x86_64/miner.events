@@ -1,0 +1,166 @@
+2024-05-15 08:20:22 ::: MINER_START ::: Enjoy your mining!
+2024-05-15 08:20:22 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 08:20:22 ::: MINING_CONF ::: Min difficulty accepted
+2024-05-15 08:20:22 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 08:20:22 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2024-05-15 08:20:22 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 00, prevHash: 01409bf7987e5099e3ae189f0133e41a310c8bf300034e300000000000000000, nTime: 0x6644a87e, cleanJobs: 1
+2024-05-15 08:20:22 ::: POOL_INFO ::: Pool in-service
+2024-05-15 08:20:59 ::: MINER_START ::: Enjoy your mining!
+2024-05-15 08:20:59 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 08:20:59 ::: MINING_CONF ::: Min difficulty accepted
+2024-05-15 08:20:59 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 08:20:59 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2024-05-15 08:20:59 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 00, prevHash: 01409bf7987e5099e3ae189f0133e41a310c8bf300034e300000000000000000, nTime: 0x6644a89c, cleanJobs: 1
+2024-05-15 08:20:59 ::: POOL_INFO ::: Pool in-service
+2024-05-15 08:40:20 ::: DIFF_CHANGE ::: Difficulty changed: 8192 => 3511
+2024-05-15 08:42:21 ::: DIFF_CHANGE ::: Difficulty changed: 3511 => 7690
+2024-05-15 08:44:32 ::: POOL_CLEAN_JOB ::: jobIdCounter = 148, JOB: jobName: 30, prevHash: 11a4206b92ef7c3da84bc85eb3abc32dc63633ef000164610000000000000000, nTime: 0x6644ae30, cleanJobs: 1
+2024-05-15 08:59:09 ::: POOL_CLEAN_JOB ::: jobIdCounter = 179, JOB: jobName: 4f, prevHash: 3913b140a6e8af9b559290c406cd6c909a2f3b780000c0420000000000000000, nTime: 0x6644b19c, cleanJobs: 1
+2024-05-15 08:59:10 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 178, extraNonce2: 00000000, nTimeInc: 00000011, nonce: ba002e36, verBits: 035ce000, diff: 15614 (0x00003cfe), chipType: 2, chipLoc: 0/0/0/0/4
+2024-05-15 09:16:17 ::: POOL_ERROR ::: Exception: Error sending data
+2024-05-15 09:16:17 ::: RECONNECTION ::: 
+2024-05-15 09:16:17 ::: RECONNECTION_ON_ERROR ::: 
+2024-05-15 09:16:22 ::: POOL_ERROR ::: Drop off 3 shares
+2024-05-15 09:16:23 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 09:16:23 ::: MINING_CONF ::: Min difficulty accepted
+2024-05-15 09:16:23 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 09:16:23 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2024-05-15 09:16:23 ::: POOL_CLEAN_JOB ::: jobIdCounter = 214, JOB: jobName: 00, prevHash: 3913b140a6e8af9b559290c406cd6c909a2f3b780000c0420000000000000000, nTime: 0x6644b59e, cleanJobs: 1
+2024-05-15 09:16:23 ::: POOL_INFO ::: Pool in-service
+2024-05-15 09:16:23 ::: POOL_CLEAN_JOB ::: jobIdCounter = 215, JOB: jobName: 01, prevHash: 3913b140a6e8af9b559290c406cd6c909a2f3b780000c0420000000000000000, nTime: 0x6644b59e, cleanJobs: 1
+2024-05-15 09:17:41 ::: POOL_CLEAN_JOB ::: jobIdCounter = 218, JOB: jobName: 04, prevHash: 674a03a0d23abc0f00c2956952274ecf11ae1dbc0002d55a0000000000000000, nTime: 0x6644b5f5, cleanJobs: 1
+2024-05-15 09:17:43 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 218, extraNonce2: 00000300, nTimeInc: 00000004, nonce: 2820a806, verBits: 00b5a000, diff: 34243 (0x000085c3), chipType: 2, chipLoc: 0/0/0/3/3
+2024-05-15 09:19:54 ::: POOL_CLEAN_JOB ::: jobIdCounter = 224, JOB: jobName: 0a, prevHash: 2c0deb66a56901f70e93f59b1a34e30337adae420002b74f0000000000000000, nTime: 0x6644b679, cleanJobs: 1
+2024-05-15 09:19:55 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 223, extraNonce2: 00000100, nTimeInc: 00000015, nonce: f05412cb, verBits: 04966000, diff: 10177 (0x000027c1), chipType: 2, chipLoc: 0/0/0/1/0
+2024-05-15 09:20:59 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 09:51:03 ::: POOL_CLEAN_JOB ::: jobIdCounter = 288, JOB: jobName: 4a, prevHash: ce8fb5de91c8073cac2c3c52265509a0de22469c000095200000000000000000, nTime: 0x6644bdc7, cleanJobs: 1
+2024-05-15 09:51:03 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 287, extraNonce2: 00000200, nTimeInc: 0000000d, nonce: 1281a072, verBits: 02484000, diff: 58217 (0x0000e369), chipType: 2, chipLoc: 0/0/0/2/2
+2024-05-15 09:52:53 ::: POOL_CLEAN_JOB ::: jobIdCounter = 293, JOB: jobName: 4f, prevHash: 27352a8b0c213ad6f50961a10dde467a2c4b93820002dbe40000000000000000, nTime: 0x6644be35, cleanJobs: 1
+2024-05-15 09:52:54 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 293, extraNonce2: 00000100, nTimeInc: 00000001, nonce: 371f1f50, verBits: 004c2000, diff: 22185 (0x000056a9), chipType: 2, chipLoc: 0/0/0/1/3
+2024-05-15 10:01:40 ::: POOL_CLEAN_JOB ::: jobIdCounter = 312, JOB: jobName: 62, prevHash: 4949fbecad5478e2cbbb4842e0e982917805c9240002c4db0000000000000000, nTime: 0x6644c044, cleanJobs: 1
+2024-05-15 10:10:38 ::: POOL_CLEAN_JOB ::: jobIdCounter = 331, JOB: jobName: 75, prevHash: 38778a7eb661f1a68bdda4dd38e7905d5e66af7a0001358b0000000000000000, nTime: 0x6644c25c, cleanJobs: 1
+2024-05-15 10:10:38 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":618,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=618, age=2, SHARE: jobId: 331, extraNonce2: 00000300, nTimeInc: 00000009, nonce: ee0723ec, verBits: 01cc8000, diff: 120821 (0x0001d7f5), chipType: 2, chipLoc: 0/0/0/3/8, JOB: N/A
+2024-05-15 10:20:59 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 10:22:29 ::: POOL_CLEAN_JOB ::: jobIdCounter = 356, JOB: jobName: 8e, prevHash: 80a2b6eb1c54a14d63605eb012b4835d1cc93738000348610000000000000000, nTime: 0x6644c525, cleanJobs: 1
+2024-05-15 10:22:29 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 355, extraNonce2: 00000000, nTimeInc: 00000018, nonce: 85f7f1ce, verBits: 04a7e000, diff: 19054 (0x00004a6e), chipType: 2, chipLoc: 0/0/0/0/3
+2024-05-15 10:22:29 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 355, extraNonce2: 00000000, nTimeInc: 0000001d, nonce: 4e86ba6e, verBits: 058a8000, diff: 8451 (0x00002103), chipType: 2, chipLoc: 0/0/0/0/3
+2024-05-15 10:30:55 ::: POOL_CLEAN_JOB ::: jobIdCounter = 375, JOB: jobName: a1, prevHash: ef1d9b5355535012025f8e546fcf0d115ec2db39000116250000000000000000, nTime: 0x6644c71f, cleanJobs: 1
+2024-05-15 10:30:56 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 375, extraNonce2: 00000000, nTimeInc: 0000000e, nonce: 3a0a4cb3, verBits: 02a14000, diff: 10981 (0x00002ae5), chipType: 2, chipLoc: 0/0/0/0/2
+2024-05-15 10:36:47 ::: POOL_CLEAN_JOB ::: jobIdCounter = 388, JOB: jobName: ae, prevHash: 5ff741def64018bef25d6560793cd9630b02c5d3000104c60000000000000000, nTime: 0x6644c87f, cleanJobs: 1
+2024-05-15 10:36:48 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 387, extraNonce2: 00000300, nTimeInc: 00000016, nonce: a26fd1e8, verBits: 047ce000, diff: 32336 (0x00007e50), chipType: 2, chipLoc: 0/0/0/3/7
+2024-05-15 10:42:36 ::: MINER_START ::: Enjoy your mining!
+2024-05-15 10:42:36 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 10:42:36 ::: MINING_CONF ::: Min difficulty accepted
+2024-05-15 10:42:36 ::: MINING_CONF ::: Rolling mask: 0x1fffe000
+2024-05-15 10:42:37 ::: DIFF_CHANGE ::: Difficulty changed: 1024 => 8192
+2024-05-15 10:42:37 ::: POOL_CLEAN_JOB ::: jobIdCounter = 100, JOB: jobName: 00, prevHash: 5ff741def64018bef25d6560793cd9630b02c5d3000104c60000000000000000, nTime: 0x6644c9cb, cleanJobs: 1
+2024-05-15 10:42:37 ::: POOL_INFO ::: Pool in-service
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 396, extraNonce2: 00000100, nTimeInc: 00000016, nonce: cbea8916, verBits: 0505c000, diff: 14728 (0x00003988), chipType: 2, chipLoc: 0/0/0/1/2
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 395, extraNonce2: 00000300, nTimeInc: 00000020, nonce: c104c3bc, verBits: 06822000, diff: 22098 (0x00005652), chipType: 2, chipLoc: 0/0/0/3/1
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 396, extraNonce2: 00000200, nTimeInc: 00000011, nonce: 2664381a, verBits: 032c8000, diff: 18247 (0x00004747), chipType: 2, chipLoc: 0/0/0/2/8
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 396, extraNonce2: 00000200, nTimeInc: 0000001d, nonce: 1ad2b71e, verBits: 0552c000, diff: 8448 (0x00002100), chipType: 2, chipLoc: 0/0/0/2/0
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 396, extraNonce2: 00000100, nTimeInc: 0000001b, nonce: 3be22e57, verBits: 065de000, diff: 8359 (0x000020a7), chipType: 2, chipLoc: 0/0/0/1/10
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 395, extraNonce2: 00000300, nTimeInc: 0000001c, nonce: 876511e5, verBits: 05b3e000, diff: 8521 (0x00002149), chipType: 2, chipLoc: 0/0/0/3/10
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 395, extraNonce2: 00000100, nTimeInc: 0000001d, nonce: b4bdf4bc, verBits: 0663c000, diff: 10798 (0x00002a2e), chipType: 2, chipLoc: 0/0/0/1/6
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 395, extraNonce2: 00000300, nTimeInc: 0000001c, nonce: 14f296e2, verBits: 059c6000, diff: 929646 (0x000e2f6e), chipType: 2, chipLoc: 0/0/0/3/9
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000000, nTimeInc: 00000049, nonce: 13534dff, verBits: 0e50a000, diff: 24668 (0x0000605c), chipType: 2, chipLoc: 0/0/0/0/10
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000100, nTimeInc: 0000006e, nonce: cabf6c22, verBits: 17d7a000, diff: 91610 (0x000165da), chipType: 2, chipLoc: 0/0/0/1/6
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000000, nTimeInc: 0000005a, nonce: 1733a8fe, verBits: 11ad6000, diff: 16414 (0x0000401e), chipType: 2, chipLoc: 0/0/0/0/10
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000200, nTimeInc: 00000070, nonce: df137409, verBits: 14334000, diff: 281452 (0x00044b6c), chipType: 2, chipLoc: 0/0/0/2/5
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000300, nTimeInc: 0000006d, nonce: f33c23b7, verBits: 16360000, diff: 14317 (0x000037ed), chipType: 2, chipLoc: 0/0/0/3/0
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000100, nTimeInc: 00000076, nonce: 67341b59, verBits: 197b0000, diff: 123015 (0x0001e087), chipType: 2, chipLoc: 0/0/0/1/2
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000300, nTimeInc: 0000007e, nonce: cbe3d400, verBits: 199f4000, diff: 16838 (0x000041c6), chipType: 2, chipLoc: 0/0/0/3/2
+2024-05-15 10:42:38 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 397, extraNonce2: 00000000, nTimeInc: 00000048, nonce: dce1d0c9, verBits: 0e2be000, diff: 13486 (0x000034ae), chipType: 2, chipLoc: 0/0/0/0/1
+2024-05-15 10:47:39 ::: POOL_CLEAN_JOB ::: jobIdCounter = 111, JOB: jobName: 0b, prevHash: 5ff741def64018bef25d6560793cd9630b02c5d3000104c60000000000000000, nTime: 0x6644caf8, cleanJobs: 1
+2024-05-15 11:00:14 ::: POOL_CLEAN_JOB ::: jobIdCounter = 137, JOB: jobName: 25, prevHash: 6af1668b2f7dca281b2639e7cc118bb7b9bc05ee00017cca0000000000000000, nTime: 0x6644cdfe, cleanJobs: 1
+2024-05-15 11:01:28 ::: POOL_CLEAN_JOB ::: jobIdCounter = 141, JOB: jobName: 29, prevHash: 1e221db26f66378412990b1c31fc82203519a2830001af9d0000000000000000, nTime: 0x6644ce47, cleanJobs: 1
+2024-05-15 11:09:32 ::: POOL_CLEAN_JOB ::: jobIdCounter = 159, JOB: jobName: 3b, prevHash: e34eedf81c71d6586a333ca69d9dfa164e8a50710001ff070000000000000000, nTime: 0x6644d02b, cleanJobs: 1
+2024-05-15 11:09:32 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":275,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=275, age=0, SHARE: jobId: 158, extraNonce2: 00000200, nTimeInc: 00000007, nonce: 6acdb8ab, verBits: 0147a000, diff: 67355 (0x0001071b), chipType: 2, chipLoc: 0/0/0/2/1, JOB: N/A
+2024-05-15 11:17:29 ::: POOL_CLEAN_JOB ::: jobIdCounter = 176, JOB: jobName: 4c, prevHash: e34eedf81c71d6586a333ca69d9dfa164e8a50710001ff070000000000000000, nTime: 0x6644d1ef, cleanJobs: 1
+2024-05-15 11:19:35 ::: POOL_CLEAN_JOB ::: jobIdCounter = 182, JOB: jobName: 52, prevHash: 4a9f0f31334794d304ef9d0b55f1595f6a3912ad000035ac0000000000000000, nTime: 0x6644d286, cleanJobs: 1
+2024-05-15 11:19:35 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":377,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=377, age=0, SHARE: jobId: 181, extraNonce2: 00000000, nTimeInc: 00000006, nonce: 8692c46a, verBits: 01438000, diff: 20977 (0x000051f1), chipType: 2, chipLoc: 0/0/0/0/9, JOB: N/A
+2024-05-15 11:20:57 ::: POOL_CLEAN_JOB ::: jobIdCounter = 186, JOB: jobName: 56, prevHash: 95f162991f90916c5f451fbaf091cf5dd78cdfe40002559b0000000000000000, nTime: 0x6644d2d9, cleanJobs: 1
+2024-05-15 11:32:58 ::: POOL_CLEAN_JOB ::: jobIdCounter = 213, JOB: jobName: 71, prevHash: c4af463f91491ad848244dac8958890c99d0ef3a000279920000000000000000, nTime: 0x6644d5a9, cleanJobs: 1
+2024-05-15 11:32:59 ::: POOL_CLEAN_JOB ::: jobIdCounter = 215, JOB: jobName: 73, prevHash: d57491b926e3b8f248d86e39d0c3808a39f8ce3000011ce80000000000000000, nTime: 0x6644d5ac, cleanJobs: 1
+2024-05-15 11:33:00 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 215, extraNonce2: 00000000, nTimeInc: 00000000, nonce: 5ee27706, verBits: 0167e000, diff: 11298 (0x00002c22), chipType: 2, chipLoc: 0/0/0/0/10
+2024-05-15 11:36:12 ::: POOL_CLEAN_JOB ::: jobIdCounter = 223, JOB: jobName: 7b, prevHash: 4f62dfb0409462cc6eef08927111a4f57d9209c00000a14c0000000000000000, nTime: 0x6644d66c, cleanJobs: 1
+2024-05-15 11:36:13 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 222, extraNonce2: 00000000, nTimeInc: 00000011, nonce: 2cb65f8f, verBits: 032b6000, diff: 13004 (0x000032cc), chipType: 2, chipLoc: 0/0/0/0/3
+2024-05-15 11:38:38 ::: POOL_CLEAN_JOB ::: jobIdCounter = 229, JOB: jobName: 81, prevHash: b6cf1041425487979e7cf6854a9fbcb617cb4b810003001f0000000000000000, nTime: 0x6644d6ff, cleanJobs: 1
+2024-05-15 11:42:36 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 11:53:56 ::: POOL_CLEAN_JOB ::: jobIdCounter = 261, JOB: jobName: a1, prevHash: 8b1ac16d07fd362b29542fd304b56e469fc6fb950002ba9b0000000000000000, nTime: 0x6644da94, cleanJobs: 1
+2024-05-15 12:00:44 ::: POOL_CLEAN_JOB ::: jobIdCounter = 278, JOB: jobName: b2, prevHash: 3c60be7e822059efbb8ca41c317b5302a0ea64360000a53a0000000000000000, nTime: 0x6644dc2b, cleanJobs: 1
+2024-05-15 12:00:44 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":774,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=774, age=2, SHARE: jobId: 277, extraNonce2: 00000200, nTimeInc: 0000001b, nonce: 5ceee61e, verBits: 053ea000, diff: 42188 (0x0000a4cc), chipType: 2, chipLoc: 0/0/0/2/4, JOB: N/A
+2024-05-15 12:00:44 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":775,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=775, age=1, SHARE: jobId: 277, extraNonce2: 00000200, nTimeInc: 00000014, nonce: 00b317bc, verBits: 03dfa000, diff: 11215 (0x00002bcf), chipType: 2, chipLoc: 0/0/0/2/4, JOB: N/A
+2024-05-15 12:01:39 ::: POOL_CLEAN_JOB ::: jobIdCounter = 281, JOB: jobName: b5, prevHash: 3c60be7e822059efbb8ca41c317b5302a0ea64360000a53a0000000000000000, nTime: 0x6644dc49, cleanJobs: 1
+2024-05-15 12:01:40 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 281, extraNonce2: 00000300, nTimeInc: 00000003, nonce: ffec4e44, verBits: 00d58000, diff: 9851 (0x0000267b), chipType: 2, chipLoc: 0/0/0/3/7
+2024-05-15 12:07:15 ::: DIFF_CHANGE ::: Difficulty changed: 8192 => 3435
+2024-05-15 12:09:46 ::: DIFF_CHANGE ::: Difficulty changed: 3435 => 6435
+2024-05-15 12:10:00 ::: POOL_CLEAN_JOB ::: jobIdCounter = 299, JOB: jobName: c7, prevHash: b75b4af82e0928c9f8c24879ec9ce1837bb5c726000279f00000000000000000, nTime: 0x6644de58, cleanJobs: 1
+2024-05-15 12:10:01 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 298, extraNonce2: 00000100, nTimeInc: 0000001c, nonce: a905e246, verBits: 062e8000, diff: 45377 (0x0000b141), chipType: 2, chipLoc: 0/0/0/1/8
+2024-05-15 12:17:36 ::: POOL_CLEAN_JOB ::: jobIdCounter = 316, JOB: jobName: d8, prevHash: 21cfb9d3bacfb52908873107532166f426560ad70001f3880000000000000000, nTime: 0x6644e020, cleanJobs: 1
+2024-05-15 12:17:36 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 315, extraNonce2: 00000300, nTimeInc: 00000007, nonce: fc7d5a86, verBits: 01624000, diff: 8055 (0x00001f77), chipType: 2, chipLoc: 0/0/0/3/7
+2024-05-15 12:20:05 ::: POOL_CLEAN_JOB ::: jobIdCounter = 322, JOB: jobName: de, prevHash: 0ee8dc3aa59a299d99665f70786c0f38a771be13000134d60000000000000000, nTime: 0x6644e0b4, cleanJobs: 1
+2024-05-15 12:23:51 ::: POOL_CLEAN_JOB ::: jobIdCounter = 331, JOB: jobName: e7, prevHash: 8637e0df3a83400d91aa84f7fd257089bf3207870002f6150000000000000000, nTime: 0x6644e197, cleanJobs: 1
+2024-05-15 12:25:59 ::: POOL_CLEAN_JOB ::: jobIdCounter = 337, JOB: jobName: ed, prevHash: 8637e0df3a83400d91aa84f7fd257089bf3207870002f6150000000000000000, nTime: 0x6644e210, cleanJobs: 1
+2024-05-15 12:25:59 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 336, extraNonce2: 00000300, nTimeInc: 00000016, nonce: 3381eb0b, verBits: 04196000, diff: 76145 (0x00012971), chipType: 2, chipLoc: 0/0/0/3/2
+2024-05-15 12:39:39 ::: POOL_CLEAN_JOB ::: jobIdCounter = 365, JOB: jobName: 0109, prevHash: 8637e0df3a83400d91aa84f7fd257089bf3207870002f6150000000000000000, nTime: 0x6644e53f, cleanJobs: 1
+2024-05-15 12:39:39 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 364, extraNonce2: 00000300, nTimeInc: 0000000b, nonce: d39db94d, verBits: 01f6a000, diff: 119753 (0x0001d3c9), chipType: 2, chipLoc: 0/0/0/3/3
+2024-05-15 12:42:36 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 12:52:29 ::: POOL_CLEAN_JOB ::: jobIdCounter = 391, JOB: jobName: 0123, prevHash: 8637e0df3a83400d91aa84f7fd257089bf3207870002f6150000000000000000, nTime: 0x6644e830, cleanJobs: 1
+2024-05-15 12:52:29 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 391, extraNonce2: 00000000, nTimeInc: 0000000c, nonce: cefa0226, verBits: 022c0000, diff: 12202 (0x00002faa), chipType: 2, chipLoc: 0/0/0/0/10
+2024-05-15 12:53:27 ::: POOL_CLEAN_JOB ::: jobIdCounter = 394, JOB: jobName: 0126, prevHash: 19f74817fc341b7d9f1d0870bd984a147c2185a7000209d90000000000000000, nTime: 0x6644e886, cleanJobs: 1
+2024-05-15 12:54:08 ::: POOL_CLEAN_JOB ::: jobIdCounter = 397, JOB: jobName: 0129, prevHash: 8d286fc816646861346e217aa9e8025f8d25c3a2000124be0000000000000000, nTime: 0x6644e8af, cleanJobs: 1
+2024-05-15 12:54:08 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":1458,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=1458, age=0, SHARE: jobId: 396, extraNonce2: 00000100, nTimeInc: 00000010, nonce: e5eef19c, verBits: 08238000, diff: 16647160 (0x00fe03f8), chipType: 2, chipLoc: 0/0/0/1/4, JOB: N/A
+2024-05-15 13:00:11 ::: POOL_CLEAN_JOB ::: jobIdCounter = 411, JOB: jobName: 0137, prevHash: a08dba6ea809fb0d5f5dd9ec648d66ae67afde88000301eb0000000000000000, nTime: 0x6644ea1a, cleanJobs: 1
+2024-05-15 13:18:30 ::: POOL_CLEAN_JOB ::: jobIdCounter = 450, JOB: jobName: 015e, prevHash: fef5560b5c2650eebc5329a6e08abbb9010a4895000270340000000000000000, nTime: 0x6644ee66, cleanJobs: 1
+2024-05-15 13:33:28 ::: POOL_CLEAN_JOB ::: jobIdCounter = 482, JOB: jobName: 017e, prevHash: b8c0f3253c200d6c9d1be1a93ba78bd82978094d000209f40000000000000000, nTime: 0x6644f1e8, cleanJobs: 1
+2024-05-15 13:33:28 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 481, extraNonce2: 00000100, nTimeInc: 0000001e, nonce: e3a41e84, verBits: 06fa0000, diff: 7701 (0x00001e15), chipType: 2, chipLoc: 0/0/0/1/1
+2024-05-15 13:35:09 ::: POOL_CLEAN_JOB ::: jobIdCounter = 487, JOB: jobName: 0183, prevHash: 370b09a6c24127c9a0e44d81c0604a4aae1b7bc7000038970000000000000000, nTime: 0x6644f24c, cleanJobs: 1
+2024-05-15 13:39:56 ::: POOL_CLEAN_JOB ::: jobIdCounter = 498, JOB: jobName: 018e, prevHash: 87c5a247966b3fef793ec598795ce017541857880000d4740000000000000000, nTime: 0x6644f36c, cleanJobs: 1
+2024-05-15 13:42:37 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 13:44:49 ::: POOL_CLEAN_JOB ::: jobIdCounter = 510, JOB: jobName: 019a, prevHash: 87c5a247966b3fef793ec598795ce017541857880000d4740000000000000000, nTime: 0x6644f47b, cleanJobs: 1
+2024-05-15 13:58:48 ::: POOL_CLEAN_JOB ::: jobIdCounter = 541, JOB: jobName: 01b9, prevHash: 793d2563d87dd6c1cac30d47e3f95c30e3dbb7240002e0370000000000000000, nTime: 0x6644f7d8, cleanJobs: 1
+2024-05-15 13:59:08 ::: POOL_CLEAN_JOB ::: jobIdCounter = 543, JOB: jobName: 01bb, prevHash: 65631109cce287f85cbb51d605babeefe5138da70001e1f10000000000000000, nTime: 0x6644f7ec, cleanJobs: 1
+2024-05-15 13:59:08 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 543, extraNonce2: 00000000, nTimeInc: 0000000f, nonce: 25904161, verBits: 03356000, diff: 8330 (0x0000208a), chipType: 2, chipLoc: 0/0/0/0/5
+2024-05-15 14:03:49 ::: POOL_CLEAN_JOB ::: jobIdCounter = 554, JOB: jobName: 01c6, prevHash: 65631109cce287f85cbb51d605babeefe5138da70001e1f10000000000000000, nTime: 0x6644f8fb, cleanJobs: 1
+2024-05-15 14:04:58 ::: POOL_CLEAN_JOB ::: jobIdCounter = 557, JOB: jobName: 01c9, prevHash: 996572930cb7757c76ccfa73936d7d62236a985b0001b74d0000000000000000, nTime: 0x6644f94b, cleanJobs: 1
+2024-05-15 14:12:57 ::: POOL_CLEAN_JOB ::: jobIdCounter = 574, JOB: jobName: 01da, prevHash: 3a19c25dc4f84ea8f19dd57586baa3074acd730f000289120000000000000000, nTime: 0x6644fb29, cleanJobs: 1
+2024-05-15 14:12:57 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":2436,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=2436, age=0, SHARE: jobId: 574, extraNonce2: 00000300, nTimeInc: 00000001, nonce: 4ea9258b, verBits: 00244000, diff: 45541 (0x0000b1e5), chipType: 2, chipLoc: 0/0/0/3/1, JOB: N/A
+2024-05-15 14:20:30 ::: POOL_CLEAN_JOB ::: jobIdCounter = 590, JOB: jobName: 01ea, prevHash: 5b86395f6565a6bfb58fee868beb777611c90f980001f1800000000000000000, nTime: 0x6644fced, cleanJobs: 1
+2024-05-15 14:23:18 ::: POOL_CLEAN_JOB ::: jobIdCounter = 597, JOB: jobName: 01f1, prevHash: ed8cd9a9d08fdfbc011e9dbf49b7f73fd8947d9e000246d10000000000000000, nTime: 0x6644fd96, cleanJobs: 1
+2024-05-15 14:36:48 ::: POOL_CLEAN_JOB ::: jobIdCounter = 626, JOB: jobName: 020e, prevHash: edc89db2b1bcc5aae7db29c10e546dc6951de9ac000196860000000000000000, nTime: 0x664500c0, cleanJobs: 1
+2024-05-15 14:36:48 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 626, extraNonce2: 00000000, nTimeInc: 00000004, nonce: 2996aa6d, verBits: 00a02000, diff: 7333 (0x00001ca5), chipType: 2, chipLoc: 0/0/0/0/7
+2024-05-15 14:38:58 ::: POOL_CLEAN_JOB ::: jobIdCounter = 633, JOB: jobName: 0215, prevHash: edc89db2b1bcc5aae7db29c10e546dc6951de9ac000196860000000000000000, nTime: 0x66450139, cleanJobs: 1
+2024-05-15 14:42:15 ::: POOL_CLEAN_JOB ::: jobIdCounter = 640, JOB: jobName: 021c, prevHash: 602728ea604d6db4da9d124c803840375a397621000131c80000000000000000, nTime: 0x66450208, cleanJobs: 1
+2024-05-15 14:42:16 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 639, extraNonce2: 00000100, nTimeInc: 00000020, nonce: b3008bee, verBits: 061ca000, diff: 24365 (0x00005f2d), chipType: 2, chipLoc: 0/0/0/1/5
+2024-05-15 14:42:37 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 14:51:55 ::: POOL_CLEAN_JOB ::: jobIdCounter = 662, JOB: jobName: 0232, prevHash: d3504092a3b0e80ef296cbaf23de82cb897269da000301b50000000000000000, nTime: 0x6645044b, cleanJobs: 1
+2024-05-15 14:56:19 ::: POOL_CLEAN_JOB ::: jobIdCounter = 673, JOB: jobName: 023d, prevHash: 48a3f1700bd480c4b460ef0664071e5d22b8ae220000d3c60000000000000000, nTime: 0x66450554, cleanJobs: 1
+2024-05-15 15:05:09 ::: POOL_CLEAN_JOB ::: jobIdCounter = 692, JOB: jobName: 0250, prevHash: 10c155d1ab86bcd4cd7c4bb88b35a79d04ce61d7000324510000000000000000, nTime: 0x66450765, cleanJobs: 1
+2024-05-15 15:14:02 ::: POOL_CLEAN_JOB ::: jobIdCounter = 711, JOB: jobName: 0263, prevHash: bc69e319b969dbb49b9b8d100e0a53590a202e4f0000b05d0000000000000000, nTime: 0x6645097a, cleanJobs: 1
+2024-05-15 15:38:10 ::: POOL_CLEAN_JOB ::: jobIdCounter = 760, JOB: jobName: 0294, prevHash: 3a2c1a975d172474279f4c2a621544f1dbbf64ec000008f80000000000000000, nTime: 0x66450f22, cleanJobs: 1
+2024-05-15 15:42:37 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 15:54:23 ::: POOL_CLEAN_JOB ::: jobIdCounter = 795, JOB: jobName: 02b7, prevHash: 004b9864897ad4f1de166ddee9aeca10f3b70e7d0001caa30000000000000000, nTime: 0x664512f0, cleanJobs: 1
+2024-05-15 15:55:52 ::: POOL_CLEAN_JOB ::: jobIdCounter = 800, JOB: jobName: 02bc, prevHash: 7995997f76520ea4a34458d2b42306094e17d968000211c70000000000000000, nTime: 0x66451348, cleanJobs: 1
+2024-05-15 16:04:38 ::: POOL_CLEAN_JOB ::: jobIdCounter = 819, JOB: jobName: 02cf, prevHash: ec6176170217ff50890aa7de30799188825fdfd4000149360000000000000000, nTime: 0x66451556, cleanJobs: 1
+2024-05-15 16:04:38 ::: POOL_SHARE_DISCARDED ::: POOL response: {"id":3822,"result":null,"error":[32,"SStaleJob",null]}, REQ: id=3822, age=1, SHARE: jobId: 817, extraNonce2: 00000200, nTimeInc: 00000020, nonce: 38375171, verBits: 05bfe000, diff: 43662 (0x0000aa8e), chipType: 2, chipLoc: 0/0/0/2/0, JOB: N/A
+2024-05-15 16:04:39 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 818, extraNonce2: 00000300, nTimeInc: 00000010, nonce: e22a19d6, verBits: 02f12000, diff: 19006 (0x00004a3e), chipType: 2, chipLoc: 0/0/0/3/6
+2024-05-15 16:07:28 ::: POOL_CLEAN_JOB ::: jobIdCounter = 826, JOB: jobName: 02d6, prevHash: ec6176170217ff50890aa7de30799188825fdfd4000149360000000000000000, nTime: 0x664515ed, cleanJobs: 1
+2024-05-15 16:09:32 ::: POOL_CLEAN_JOB ::: jobIdCounter = 831, JOB: jobName: 02db, prevHash: 25fa7b692725bdfe62b871262a321294553460f8000100a10000000000000000, nTime: 0x6645167c, cleanJobs: 1
+2024-05-15 16:12:48 ::: POOL_CLEAN_JOB ::: jobIdCounter = 839, JOB: jobName: 02e3, prevHash: 25fa7b692725bdfe62b871262a321294553460f8000100a10000000000000000, nTime: 0x66451732, cleanJobs: 1
+2024-05-15 16:18:23 ::: POOL_CLEAN_JOB ::: jobIdCounter = 852, JOB: jobName: 02f0, prevHash: ff0c7094c29408af2589ee0d5592cf15c4da3798000029810000000000000000, nTime: 0x6645188e, cleanJobs: 1
+2024-05-15 16:22:20 ::: POOL_CLEAN_JOB ::: jobIdCounter = 861, JOB: jobName: 02f9, prevHash: b962555945b4e84966bedbc7ef03b89611f3b11e00018e350000000000000000, nTime: 0x6645197c, cleanJobs: 1
+2024-05-15 16:38:33 ::: POOL_CLEAN_JOB ::: jobIdCounter = 895, JOB: jobName: 031b, prevHash: 14f3ea7cbe584f71f1c5625d03df2e7c0ffc1ffb0002d0660000000000000000, nTime: 0x66451d49, cleanJobs: 1
+2024-05-15 16:38:34 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 894, extraNonce2: 00000200, nTimeInc: 0000000b, nonce: 1eb126b6, verBits: 01e08000, diff: 10971 (0x00002adb), chipType: 2, chipLoc: 0/0/0/2/5
+2024-05-15 16:39:40 ::: POOL_CLEAN_JOB ::: jobIdCounter = 899, JOB: jobName: 031f, prevHash: 1bd8d2d1a5ec6d2510528b686384e8e7e0c66ce000032b810000000000000000, nTime: 0x66451d8c, cleanJobs: 1
+2024-05-15 16:39:41 ::: STALE_JOB_SHARE ::: job not found, SHARE: jobId: 898, extraNonce2: 00000000, nTimeInc: 00000007, nonce: eda55192, verBits: 00f8c000, diff: 10041 (0x00002739), chipType: 2, chipLoc: 0/0/0/0/9
+2024-05-15 16:42:37 ::: MINER_ALIVE ::: Enjoy your mining!
+2024-05-15 16:43:30 ::: POOL_CLEAN_JOB ::: jobIdCounter = 908, JOB: jobName: 0328, prevHash: a499ee8e936fa226bfe75aca29fbfa770647545e0001772a0000000000000000, nTime: 0x66451e73, cleanJobs: 1
+2024-05-15 16:51:07 ::: POOL_CLEAN_JOB ::: jobIdCounter = 925, JOB: jobName: 0339, prevHash: fd629c6c78fbbc8a2ae1f6c8bb517c6df76de7a800028b2d0000000000000000, nTime: 0x6645203c, cleanJobs: 1
+2024-05-15 17:00:38 ::: POOL_CLEAN_JOB ::: jobIdCounter = 945, JOB: jobName: 034d, prevHash: c934fd2145dd50813e2d5fded039ba118c716d6b00014b6a0000000000000000, nTime: 0x66452276, cleanJobs: 1
+2024-05-15 17:03:02 ::: POOL_CLEAN_JOB ::: jobIdCounter = 951, JOB: jobName: 0353, prevHash: 630ab9c9f19c541bc50dc388ed1b43c40f3fc3af000030fc0000000000000000, nTime: 0x66452306, cleanJobs: 1
+2024-05-15 17:07:18 ::: POOL_CLEAN_JOB ::: jobIdCounter = 962, JOB: jobName: 035e, prevHash: 630ab9c9f19c541bc50dc388ed1b43c40f3fc3af000030fc0000000000000000, nTime: 0x664523f8, cleanJobs: 1
+2024-05-15 17:11:13 ::: POOL_CLEAN_JOB ::: jobIdCounter = 972, JOB: jobName: 0368, prevHash: 386a91d9b3f4687fb08043652f565a09f760baf70000502f0000000000000000, nTime: 0x664524f1, cleanJobs: 1
+2024-05-15 17:26:04 ::: POOL_CLEAN_JOB ::: jobIdCounter = 1003, JOB: jobName: 0387, prevHash: 77aeaada0f6e2aa32316bb4db89d29a4e6c78bc5000325c90000000000000000, nTime: 0x6645286c, cleanJobs: 1
+2024-05-15 17:33:00 ::: POOL_CLEAN_JOB ::: jobIdCounter = 1018, JOB: jobName: 0396, prevHash: 9410519aa360f2532552dd92e66a2a99e6c1a33400018e610000000000000000, nTime: 0x66452a0b, cleanJobs: 1
+2024-05-15 17:42:37 ::: MINER_ALIVE ::: Enjoy your mining!
